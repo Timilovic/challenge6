@@ -1,5 +1,3 @@
-
-
 *{
     box-sizing: border-box;
 }
@@ -11,6 +9,7 @@ main{
     grid-template-rows: 1fr;
     gap:0;
     box-shadow: 1px 1px 3px rgb(156, 155, 155);
+    margin-top: 90px;
     /* overflow: hidden; */
 }
 
